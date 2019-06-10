@@ -129,7 +129,7 @@ public class Archivos extends javax.swing.JFrame {
         jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Trebuchet MS", 2, 18))); // NOI18N
 
         jLabel1.setFont(new java.awt.Font("Trebuchet MS", 0, 14)); // NOI18N
-        jLabel1.setText("Directorios");
+        jLabel1.setText("Carpetas");
 
         jLabel2.setFont(new java.awt.Font("Trebuchet MS", 0, 14)); // NOI18N
         jLabel2.setText("Archivos");
@@ -210,7 +210,7 @@ public class Archivos extends javax.swing.JFrame {
         lblModificacion.setText("Ultima modificacion:");
 
         lblTamaño.setFont(new java.awt.Font("Trebuchet MS", 0, 14)); // NOI18N
-        lblTamaño.setText("Tamaño bytes:");
+        lblTamaño.setText("Tamaño KB:");
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
